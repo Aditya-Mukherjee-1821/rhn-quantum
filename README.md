@@ -1,0 +1,1 @@
+This repository contains a structured code to optimize heater costs in district heating network using BQM formulation of the problem statement. The optimization function of the same uses heater production cost, differential pressures across twin pipes. The optimizer ensures each and every demand of consumer is always met.
